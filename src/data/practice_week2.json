@@ -1,0 +1,96 @@
+{
+    "multipleChoice": [
+        {
+            "question": "What are the two main goals of Omega Delta Phi?",
+            "options": [
+                "Graduate its members and serve its communities",
+                "Promote social events and increase membership",
+                "Fundraise for charity and host cultural events",
+                "Enhance academic skills and provide career networking"
+            ],
+            "correct": "Graduate its members and serve its communities"
+        },
+        {
+            "question": "When was Omega Delta Phi Fraternity founded?",
+            "options": [
+                "November 25, 1987",
+                "December 10, 1985",
+                "October 15, 1988",
+                "September 1, 1986"
+            ],
+            "correct": "November 25, 1987"
+        },
+        {
+            "question": "What is the national public motto of Omega Delta Phi?",
+            "options": [
+                "Unity in Diversity",
+                "Excellence through Brotherhood",
+                "Crescit Eundo - It grows as it goes",
+                "Strength in Unity"
+            ],
+            "correct": "Crescit Eundo - It grows as it goes"
+        },
+        {
+            "question": "Which of the following is NOT one of the Four Links of Omega Delta Phi?",
+            "options": [
+                "Unity Link",
+                "Service Link",
+                "Achievement Link",
+                "Activation Link"
+            ],
+            "correct": "Achievement Link"
+        },
+        {
+            "question": "What is the national slogan of Omega Delta Phi?",
+            "options": [
+                "Brothers for Life",
+                "One Culture Any Race",
+                "Unity and Service",
+                "Beyond Borders"
+            ],
+            "correct": "One Culture Any Race"
+        },
+        {
+            "question": "What are the official colors of Omega Delta Phi?",
+            "options": [
+                "Scarlet and Silver, with Black as a supporting color",
+                "Blue and Gold, with White as a supporting color",
+                "Green and White, with Purple as a supporting color",
+                "Red and White, with Blue as a supporting color"
+            ],
+            "correct": "Scarlet and Silver, with Black as a supporting color"
+        }
+    ],
+    "fill": [
+        {
+            "question": "Name the founding fathers of Omega Delta Phi, one in each blank.",
+            "placeholder": "Enter a founder's name",
+            "answers": [
+                "Joe Cereceres",
+                "Eugene Dominguez",
+                "Arturo Barraza",
+                "Juan Barraza",
+                "Tommy Hurtado",
+                "Dwight Christopher Forbes",
+                "Elliot Bazan"
+            ]
+        },
+        {
+            "question": "What are the values of Omega Delta Phi?",
+            "placeholder": "",
+            "answers": [
+                "Unity",
+                "Honesty",
+                "Integrity",
+                "Leadership"
+            ]
+        }
+    ],
+    "textbox": [
+        {
+            "question": "What is the purpose of ODPHI? (Commas aren't important)",
+            "placeholder": "",
+            "answer": "The purpose of this Brotherhood, a service/social fraternity dedicated to the needs and concerns of the community, shall be to promote and maintain the traditional values of Unity, Honesty, Integrity, and Leadership. This Brotherhood was founded in order to provide, to ANY man, a diverse fraternal experience, which coincides with a higher education."
+        }
+    ]
+}
