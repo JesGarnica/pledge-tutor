@@ -1,0 +1,92 @@
+[
+    {
+        "entity": "Colony",
+        "university": "Colorado State University–Fort Collins",
+        "location": "Fort Collins, CO",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Colony",
+        "university": "Prairie View A&M University",
+        "location": "Prairie View, TX",
+        "region": "East Texas"
+    },
+    {
+        "entity": "Colony",
+        "university": "University of Wisconsin at Milwaukee",
+        "location": "Milwaukee, WI",
+        "region": "Midwest"
+    },
+    {
+        "entity": "Colony",
+        "university": "Michigan State University",
+        "location": "Lansing, MI",
+        "region": "Midwest"
+    },
+    {
+        "entity": "Colony",
+        "university": "University of Texas at San Antonio",
+        "location": "San Antonio, TX",
+        "region": "Central Texas"
+    },
+    {
+        "entity": "Colony",
+        "university": "California State University–Stanislaus",
+        "location": "Turlock, CA",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Colony",
+        "university": "University of West Florida",
+        "location": "Pensacola, FL",
+        "region": "East Texas"
+    },
+    {
+        "entity": "Colony",
+        "university": "University of the Pacific",
+        "location": "Stockton, CA",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Colony",
+        "university": "Texas A&M University Commerce",
+        "location": "Commerce, TX",
+        "region": "North Texas"
+    },
+    {
+        "entity": "Colony",
+        "university": "Auburn University",
+        "location": "Auburn, AL",
+        "region": "East Texas"
+    },
+    {
+        "entity": "Colony",
+        "university": "California State University–Bakersfield",
+        "location": "Bakersfield, CA",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Colony",
+        "university": "Colorado State University - Pueblo",
+        "location": "Pueblo, CO",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Colony",
+        "university": "Stephen F. Austin State University",
+        "location": "Nacogdoches, TX",
+        "region": "East Texas"
+    },
+    {
+        "entity": "Colony",
+        "university": "University of Wisconsin Oshkosh",
+        "location": "Oshkosh, WI",
+        "region": "Midwest"
+    },
+    {
+        "entity": "Colony",
+        "university": "University of Nebraska – Lincoln",
+        "location": "Lincoln, NE",
+        "region": "Central Plains"
+    }
+]

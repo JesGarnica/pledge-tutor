@@ -1,0 +1,120 @@
+{
+    "eventKey": "week2",
+    "accordionHeader": "Week 2 - Fundamentals",
+    "tabs": [
+      {
+        "eventKey": "material",
+        "title": "Learning Material",
+        "content": [
+          {
+            "type": "header",
+            "level": 3,
+            "text": "The Purpose of Omega Delta Phi Fraternity, Inc."
+          },
+          {
+            "type": "paragraph",
+            "text": "The purpose of this Brotherhood, a service/social fraternity dedicated to the needs and concerns of the community, shall be to promote and maintain the traditional values of Unity, Honesty, Integrity, and Leadership. This Brotherhood was founded in order to provide, to ANY man, a diverse fraternal experience, which coincides with a higher education."
+          },
+          {
+            "type": "paragraph",
+            "text": "Omega Delta Phi exists to accomplish two goals:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Graduate its members",
+              "Serve its communities"
+            ]
+          },
+          {
+            "type": "image",
+            "src": "alphabet.png",
+            "fluid": true
+          },
+          {
+            "type": "table",
+            "headers": ["Entity", "School", "Location", "Region"],
+            "rows": [
+                [
+                    ["Alpha", "Texas Tech University", "Lubbock, TX", "North Texas"],
+                    ["Gamma", "University of Arizona", "Tucson, AZ", "Southwest"],
+                    ["Delta", "Texas A&M University", "College Station, TX", "East Texas"],
+                    ["Epsilon", "Arizona State University", "Tempe, AZ", "Southwest"],
+                    ["Eta", "Sam Houston State University", "Huntsville, TX", "East Texas"],
+                    ["Theta", "West Texas A&M University", "Canyon, TX", "North Texas"],
+                    ["Iota", "Northern Arizona University", "Flagstaff, AZ", "Southwest"],
+                    ["Lambda", "University of Washington", "Seattle, WA", "Northwest"],
+                    ["Mu", "Midwestern State University", "Wichita, TX", "North Texas"],
+                    ["Xi", "University of Oklahoma", "Norman, OK", "Central Plains"],
+                    ["Omicron", "University of Wisconsin–Parkside", "Kenosha, WI", "Midwest"],
+                    ["Pi", "University of Houston", "Houston, TX", "East Texas"],
+                    ["Rho", "Texas State University", "San Marcos, TX", "Central Texas"],
+                    ["Tau", "University of Texas at Arlington", "Arlington, TX", "North Texas"],
+                    ["Upsilon", "Washington State University", "Pullman, WA", "Northwest"],
+                    ["Chi", "University of Texas at Austin", "Austin, TX", "Central Texas"],
+                    ["Alpha Alpha", "Northwestern University", "Evanston, IL", "Midwest"],
+                    ["Alpha Gamma", "University of Texas–Rio Grande Valley", "Edinburg, TX", "Central Texas"],
+                    ["Alpha Eta", "University of New Mexico", "Albuquerque, NM", "Southwest"],
+                    ["Alpha Theta", "Oregon State University", "Corvallis, OR", "Northwest"],
+                    ["Alpha Iota", "California State University, Monterey Bay", "Seaside, CA", "Northwest"],
+                    ["Alpha Kappa", "Texas A&M University at Kingsville", "Kingsville, TX", "Central Texas"],
+                    ["Alpha Mu", "Baylor University", "Waco, TX", "Central Texas"],
+                    ["Alpha Xi", "University of Texas at Dallas", "Dallas, TX", "North Texas"],
+                    ["Alpha Omicron", "Texas Southern University", "Houston, TX", "East Texas"],
+                    ["Alpha Pi", "University of Illinois at Urbana-Champaign", "Urbana, IL", "Midwest"],
+                    ["Alpha Rho", "Texas A&M International University", "Laredo, TX", "Central Texas"],
+                    ["Alpha Sigma", "University of Florida", "Gainesville, FL", "East Texas"],
+                    ["Alpha Phi", "University of Nevada at Las Vegas", "Las Vegas, NV", "Southwest"],
+                    ["Alpha Chi", "University of North Texas", "Denton, TX", "North Texas"],
+                    ["Alpha Psi", "University of California, Merced", "Merced, CA", "Northwest"],
+                    ["Beta Alpha", "Northeastern Illinois University", "Chicago, IL", "Midwest"],
+                    ["Beta Beta", "Cal State University, Dominguez-Hills", "Carson, CA", "Southwest"],
+                    ["Beta Gamma", "Eastern Washington University", "Cheney, WA", "Northwest"],
+                    ["Beta Delta", "University of Nevada, Reno", "Reno, NV", "Northwest"],
+                    ["Beta Epsilon", "Texas Christian University", "Fort Worth, TX", "North Texas"],
+                    ["Beta Zeta", "University of Utah", "Salt Lake City, UT", "Southwest"],
+                    ["Beta Eta", "University of Central Oklahoma", "Oklahoma City, OK", "Central Plains"],
+                    ["Beta Theta", "Texas A&M University-San Antonio", "San Antonio, TX", "Central Texas"],
+                    ["Beta Iota", "University of Illinois at Chicago", "Chicago, IL", "Midwest"],
+                    ["Beta Kappa", "Western Oregon University", "Monmouth, OR", "Northwest"],
+                    ["Beta Lambda", "University of Idaho", "Moscow, ID", "Northwest"],
+                    ["Beta Nu", "Oklahoma State University", "Stillwater, OK", "Central Plains"],
+                    ["Beta Xi", "Heritage University", "Toppenish, WA", "Northwest"],
+                    ["Beta Omicron", "University of the Incarnate Word", "San Antonio, TX", "Central Texas"],
+                    ["Beta Pi", "Texas A&M University-Corpus Christi", "Corpus Christi, TX", "Central Texas"],
+                    ["Beta Rho", "Western Michigan University", "Kalamazoo, MI", "Midwest"],
+                    ["Beta Sigma", "University of Houston Downtown", "Houston, TX", "East Texas"],
+                    ["Beta Tau", "Portland State University", "Portland, OR", "Northwest"],
+                    ["Beta Upsilon", "Southern Illinois University", "Carbondale, IL", "Midwest"],
+                    ["Beta Phi", "Fresno State University", "Fresno, CA", "Southwest"],
+                    ["Beta Chi", "Kansas State University", "Manhattan, KS", "Central Plains"],
+                    ["Alpha", "Texas Tech University", "Lubbock, TX", "North Texas"]
+                ]
+            ]
+          }
+        ]
+      },
+      {
+        "eventKey": "cquiz",
+        "title": "Practice Quizzes",
+        "content": [
+          {
+            "type": "quiz",
+            "questions": "practiceWeek2Questions.json"
+          }
+        ]
+      },
+      {
+        "eventKey": "pquiz",
+        "title": "PM Quizzes",
+        "disabled": true,
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Tab content for PM Quizzes"
+          }
+        ]
+      }
+    ]
+  }
+  

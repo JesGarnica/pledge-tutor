@@ -1,0 +1,320 @@
+[
+    {
+        "entity": "Alpha",
+        "school": "Texas Tech University",
+        "location": "Lubbock, TX",
+        "region": "North Texas"
+    },
+    {
+        "entity": "Gamma",
+        "school": "University of Arizona",
+        "location": "Tucson, AZ",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Delta",
+        "school": "Texas A&M University",
+        "location": "College Station, TX",
+        "region": "East Texas"
+    },
+    {
+        "entity": "Epsilon",
+        "school": "Arizona State University",
+        "location": "Tempe, AZ",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Eta",
+        "school": "Sam Houston State University",
+        "location": "Huntsville, TX",
+        "region": "East Texas"
+    },
+    {
+        "entity": "Theta",
+        "school": "West Texas A&M University",
+        "location": "Canyon, TX",
+        "region": "North Texas"
+    },
+    {
+        "entity": "Iota",
+        "school": "Northern Arizona University",
+        "location": "Flagstaff, AZ",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Lambda",
+        "school": "University of Washington",
+        "location": "Seattle, WA",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Mu",
+        "school": "Midwestern State University",
+        "location": "Wichita, TX",
+        "region": "North Texas"
+    },
+    {
+        "entity": "Xi",
+        "school": "University of Oklahoma",
+        "location": "Norman, OK",
+        "region": "Central Plains"
+    },
+    {
+        "entity": "Omicron",
+        "school": "University of Wisconsin–Parkside",
+        "location": "Kenosha, WI",
+        "region": "Midwest"
+    },
+    {
+        "entity": "Pi",
+        "school": "University of Houston",
+        "location": "Houston, TX",
+        "region": "East Texas"
+    },
+    {
+        "entity": "Rho",
+        "school": "Texas State University",
+        "location": "San Marcos, TX",
+        "region": "Central Texas"
+    },
+    {
+        "entity": "Tau",
+        "school": "University of Texas at Arlington",
+        "location": "Arlington, TX",
+        "region": "North Texas"
+    },
+    {
+        "entity": "Upsilon",
+        "school": "Washington State University",
+        "location": "Pullman, WA",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Chi",
+        "school": "University of Texas at Austin",
+        "location": "Austin, TX",
+        "region": "Central Texas"
+    },
+    {
+        "entity": "Alpha Alpha",
+        "school": "Northwestern University",
+        "location": "Evanston, IL",
+        "region": "Midwest"
+    },
+    {
+        "entity": "Alpha Gamma",
+        "school": "University of Texas–Rio Grande Valley",
+        "location": "Edinburg, TX",
+        "region": "Central Texas"
+    },
+    {
+        "entity": "Alpha Eta",
+        "school": "University of New Mexico",
+        "location": "Albuquerque, NM",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Alpha Theta",
+        "school": "Oregon State University",
+        "location": "Corvallis, OR",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Alpha Iota",
+        "school": "California State University, Monterey Bay",
+        "location": "Seaside, CA",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Alpha Kappa",
+        "school": "Texas A&M University at Kingsville",
+        "location": "Kingsville, TX",
+        "region": "Central Texas"
+    },
+    {
+        "entity": "Alpha Mu",
+        "school": "Baylor University",
+        "location": "Waco, TX",
+        "region": "Central Texas"
+    },
+    {
+        "entity": "Alpha Xi",
+        "school": "University of Texas at Dallas",
+        "location": "Dallas, TX",
+        "region": "North Texas"
+    },
+    {
+        "entity": "Alpha Omicron",
+        "school": "Texas Southern University",
+        "location": "Houston, TX",
+        "region": "East Texas"
+    },
+    {
+        "entity": "Alpha Pi",
+        "school": "University of Illinois at Urbana-Champaign",
+        "location": "Urbana, IL",
+        "region": "Midwest"
+    },
+    {
+        "entity": "Alpha Rho",
+        "school": "Texas A&M International University",
+        "location": "Laredo, TX",
+        "region": "Central Texas"
+    },
+    {
+        "entity": "Alpha Sigma",
+        "school": "University of Florida",
+        "location": "Gainesville, FL",
+        "region": "East Texas"
+    },
+    {
+        "entity": "Alpha Phi",
+        "school": "University of Nevada at Las Vegas",
+        "location": "Las Vegas, NV",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Alpha Chi",
+        "school": "University of North Texas",
+        "location": "Denton, TX",
+        "region": "North Texas"
+    },
+    {
+        "entity": "Alpha Psi",
+        "school": "University of California, Merced",
+        "location": "Merced, CA",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Beta Alpha",
+        "school": "Northeastern Illinois University",
+        "location": "Chicago, IL",
+        "region": "Midwest"
+    },
+    {
+        "entity": "Beta Beta",
+        "school": "Cal State University, Dominguez-Hills",
+        "location": "Carson, CA",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Beta Gamma",
+        "school": "Eastern Washington University",
+        "location": "Cheney, WA",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Beta Delta",
+        "school": "University of Nevada, Reno",
+        "location": "Reno, NV",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Beta Epsilon",
+        "school": "Texas Christian University",
+        "location": "Fort Worth, TX",
+        "region": "North Texas"
+    },
+    {
+        "entity": "Beta Zeta",
+        "school": "University of Utah",
+        "location": "Salt Lake City, UT",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Beta Eta",
+        "school": "University of Central Oklahoma",
+        "location": "Oklahoma City, OK",
+        "region": "Central Plains"
+    },
+    {
+        "entity": "Beta Theta",
+        "school": "Texas A&M University-San Antonio",
+        "location": "San Antonio, TX",
+        "region": "Central Texas"
+    },
+    {
+        "entity": "Beta Iota",
+        "school": "University of Illinois at Chicago",
+        "location": "Chicago, IL",
+        "region": "Midwest"
+    },
+    {
+        "entity": "Beta Kappa",
+        "school": "Western Oregon University",
+        "location": "Monmouth, OR",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Beta Lambda",
+        "school": "University of Idaho",
+        "location": "Moscow, ID",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Beta Nu",
+        "school": "Oklahoma State University",
+        "location": "Stillwater, OK",
+        "region": "Central Plains"
+    },
+    {
+        "entity": "Beta Xi",
+        "school": "Heritage University",
+        "location": "Toppenish, WA",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Beta Omicron",
+        "school": "University of the Incarnate Word",
+        "location": "San Antonio, TX",
+        "region": "Central Texas"
+    },
+    {
+        "entity": "Beta Pi",
+        "school": "Texas A&M University-Corpus Christi",
+        "location": "Corpus Christi, TX",
+        "region": "Central Texas"
+    },
+    {
+        "entity": "Beta Rho",
+        "school": "Western Michigan University",
+        "location": "Kalamazoo, MI",
+        "region": "Midwest"
+    },
+    {
+        "entity": "Beta Sigma",
+        "school": "University of Houston Downtown",
+        "location": "Houston, TX",
+        "region": "East Texas"
+    },
+    {
+        "entity": "Beta Tau",
+        "school": "Portland State University",
+        "location": "Portland, OR",
+        "region": "Northwest"
+    },
+    {
+        "entity": "Beta Upsilon",
+        "school": "Southern Illinois University",
+        "location": "Carbondale, IL",
+        "region": "Midwest"
+    },
+    {
+        "entity": "Beta Phi",
+        "school": "Fresno State University",
+        "location": "Fresno, CA",
+        "region": "Southwest"
+    },
+    {
+        "entity": "Beta Chi",
+        "school": "Kansas State University",
+        "location": "Manhattan, KS",
+        "region": "Central Plains"
+    },
+    {
+        "entity": "Alpha",
+        "school": "Texas Tech University",
+        "location": "Lubbock, TX",
+        "region": "North Texas"
+    }
+]
