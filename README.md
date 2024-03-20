@@ -1,6 +1,6 @@
 ## Development Environment
 
-Download [[Visual Studio Code](https://code.visualstudio.com/Download)
+Download [Visual Studio Code](https://code.visualstudio.com/Download)
 Please be sure to download [git](https://git-scm.com/downloads) to clone both Knight Tutor and Knight Server repos.
 Install [npm (package manager)](https://www.npmjs.com/package/npm) to run the code from both repos. 
 
