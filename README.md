@@ -1,3 +1,9 @@
+## Development Environment
+
+Download [https://code.visualstudio.com/Download](Visual Studio Code)
+Please be sure to download git to clone both Knight Tutor and Knight Server repos
+
+
 ## How to run Knight Tutor
 
 In order to run successfully Knight Tutor, you must clone both the Knight Tutor and Knight Server repositories.
